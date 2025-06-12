@@ -1,7 +1,7 @@
 # vGFit-1.0
 Fitting Soil Water Retention Curve using the van Genuchten Model
 
-README: Soil Water Retention Curve Fitting (van Genuchten Model) — No GUI Version
+README: Soil Water Retention Curve Fitting (van Genuchten Model)
 =================================================================================
 
 This script fits soil water retention data to the van Genuchten model using pressure head and volumetric water content data from an Excel file.
